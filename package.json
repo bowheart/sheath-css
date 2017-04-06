@@ -1,0 +1,25 @@
+{
+  "name": "sheath-css",
+  "version": "0.1.0",
+  "description": "css modifier for sheath.js",
+  "main": "src/sheath-css.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bowheart/sheath-css.git"
+  },
+  "keywords": [
+    "css",
+    "preprocessor",
+    "sheath",
+    "module"
+  ],
+  "author": "Joshua Claunch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bowheart/sheath-css/issues"
+  },
+  "homepage": "https://github.com/bowheart/sheath-css#readme"
+}
